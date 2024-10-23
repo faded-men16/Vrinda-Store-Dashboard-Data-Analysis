@@ -15,4 +15,4 @@ This project involves building an interactive sales dashboard in Microsoft Excel
 - Which Channel is contributing maximum to the sales?
 - Highest selling category?
 - Percentage of Total Orders delivered
-- Dashboard Interaction 
+- Dashboard Interaction - <a href="https://github.com/faded-men16/Vrinda-Store-Data-Analysis-Interactive-Dashboard-creation-using-MS-Excel-/blob/main/Vrinda%20Store%20Data%20Analysis.jpg">View Dashboard</a>
