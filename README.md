@@ -26,3 +26,10 @@ This project involves building an interactive sales dashboard in Microsoft Excel
 ## Dashboard
 ![Vrinda Store Data Analysis](https://github.com/user-attachments/assets/4c185713-dd40-4e40-a266-8cdd923c7eeb)
 
+## Project Insight
+- Women customers show a higher purchasing tendency than men, contributing approximately 65% of total purchases.
+- Maharashtra, Karnataka, and Uttar Pradesh rank as the top three states in terms of product purchases.
+- The adult age group (30-49 years) accounts for the highest contribution, making around 50% of total purchases.
+- The majority of customer orders are placed through Amazon, Flipkart, and Myntra.
+- Over 90% of the products are successfully delivered to customers.
+
