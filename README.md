@@ -16,3 +16,13 @@ This project involves building an interactive sales dashboard in Microsoft Excel
 - Highest selling category?
 - Percentage of Total Orders delivered
 - Dashboard Interaction - <a href="https://github.com/faded-men16/Vrinda-Store-Data-Analysis-Interactive-Dashboard-creation-using-MS-Excel-/blob/main/Vrinda%20Store%20Data%20Analysis.jpg">View Dashboard</a>
+
+## Process
+- Verified the dataset for missing values and anomalies and resolved any discrepancies.
+- Ensured the data is consistent and clean in terms of data types, formats, and values used.
+- Created pivot tables to address key business questions effectively.
+- Consolidated all pivot tables into a single, interactive dashboard and applied slicers to enable dynamic filtering and analysis.
+
+## Dashboard
+![Vrinda Store Data Analysis](https://github.com/user-attachments/assets/4c185713-dd40-4e40-a266-8cdd923c7eeb)
+
